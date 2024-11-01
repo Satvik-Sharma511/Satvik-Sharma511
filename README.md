@@ -18,5 +18,6 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-</div>
+ <img src="https://github.com/user-attachments/assets/827739f7-2ae3-4598-a9db-aa2e03063fb0" width="100px" height="100px" border-radius="50%" />
+
 </details>
