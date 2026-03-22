@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Satvik Sharma</h1>
+- 📫 How to reach me **satviksharma511@gmail.com**
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <!-- C++ -->
