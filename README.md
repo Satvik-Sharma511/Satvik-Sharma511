@@ -50,7 +50,7 @@
   </a>
   <!-- DagsHub -->
   <a href="https://dagshub.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://avatars.githubusercontent.com/u/58504scalability?s=200&v=4" alt="dagshub" width="40" height="40"/> 
+   <img src="https://img.shields.io/twitter/follow/TheRealDAGsHub.svg?style=social" alt="DagsHub" width="40" height="40"/>
   </a>
   <!-- AWS -->
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
