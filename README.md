@@ -42,7 +42,7 @@
   </a>
   <!-- DVC -->
  <a href="https://dvc.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/iterative/dvc/main/static/img/logo.svg" alt="dvc" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Data_Version_Control._Official_Logo_by_Iterative.ai.png" alt="dvc" width="40" height="40"/> 
 </a>
   <!-- MLflow -->
   <a href="https://mlflow.org/" target="_blank" rel="noreferrer"> 
