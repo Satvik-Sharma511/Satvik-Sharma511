@@ -49,9 +49,9 @@
     <img src="https://www.vectorlogo.zone/logos/mlflow/mlflow-icon.svg" alt="mlflow" width="40" height="40"/> 
   </a>
   <!-- DagsHub -->
-  <a href="https://dagshub.com/" target="_blank" rel="noreferrer"> 
-   <img src="https://img.shields.io/twitter/follow/TheRealDAGsHub.svg?style=social" alt="DagsHub" width="40" height="40"/>
-  </a>
+ <a href="https://dagshub.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://dagshub.com/docs/assets/images/favicon.svg" alt="dagshub" width="40" height="40"/>
+</a>
   <!-- AWS -->
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
