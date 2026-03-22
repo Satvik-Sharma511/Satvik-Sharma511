@@ -45,9 +45,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Data_Version_Control._Official_Logo_by_Iterative.ai.png" alt="dvc" width="40" height="40"/> 
 </a>
   <!-- MLflow -->
-  <a href="https://mlflow.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/mlflow/mlflow-icon.svg" alt="mlflow" width="40" height="40"/> 
-  </a>
+ <a href="https://mlflow.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://mlflow.org/docs/latest/images/logo-dark.svg" alt="mlflow" width="40" height="40"/>
+</a>
   <!-- DagsHub -->
  <a href="https://dagshub.com/" target="_blank" rel="noreferrer"> 
   <img src="https://dagshub.com/docs/assets/images/favicon.svg" alt="dagshub" width="40" height="40"/>
