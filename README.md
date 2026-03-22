@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satvik Sharma</h1>
-- 📫 How to reach me **satviksharma511@gmail.com**
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+
+- 📫 How to reach me: **satviksharma511@gmail.com**
+- 💼 Connect with me: <a href="https://www.linkedin.com/in/satvik-sharma-a3132128a/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/3840px-LinkedIn_icon.svg.png" alt="linkedin" width="40" height="40"/></a><p align="left"> 
   <!-- C++ -->
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
