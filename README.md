@@ -42,7 +42,7 @@
   </a>
   <!-- DVC -->
   <a href="https://dvc.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dvc/dvc-original.svg" alt="dvc" width="40" height="40"/> 
+    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/dvc/dvc-original.svg](https://github.com/treeverse/dvc)" alt="dvc" width="40" height="40"/> 
   </a>
   <!-- MLflow -->
   <a href="https://mlflow.org/" target="_blank" rel="noreferrer"> 
